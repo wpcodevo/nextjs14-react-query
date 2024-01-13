@@ -5,11 +5,6 @@ export default function Home() {
     <div>
       <h1>Hello, Next.js 13 App Directory!</h1>
       <p>
-        <Link href='/hydration-stream-suspense'>
-          React Query With Streamed Hydration --- Bad for SEO
-        </Link>
-      </p>
-      <p>
         <Link href='/initial-data'>
           Prefetching Using initial data --- Good for SEO
         </Link>
