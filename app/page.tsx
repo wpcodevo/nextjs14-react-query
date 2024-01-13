@@ -15,7 +15,9 @@ export default function Home() {
         </Link>
       </p>
       <p>
-        <Link href='/hydration'>Prefetching Using Hydration</Link>
+        <Link href='/hydration'>
+          Prefetching Using Hydration --- Good for SEO
+        </Link>
       </p>
     </div>
   );
